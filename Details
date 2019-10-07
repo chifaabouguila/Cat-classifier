@@ -17,4 +17,4 @@ I'm going to build a simple image-recognition algorithm that can correctly class
 It's time to design a simple algorithm to distinguish cat images from non-cat images.
 
 Im gonna build a Logistic Regression, using a Neural Network mindset. The following Figure explains why Logistic Regression is actually a very simple Neural Network!
-![Image description](link-to-image)
+![Image description](https://github.com/chifaabouguila/Cat-classifier/issues/1#issuecomment-539100145)
